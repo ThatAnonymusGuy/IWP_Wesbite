@@ -1,2 +1,2 @@
 # EPICs
-Part of community project submission
+Learning Management system as a part of community project submission
